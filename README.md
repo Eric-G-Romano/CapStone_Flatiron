@@ -1,3 +1,4 @@
+![](Images/ethereum-and-bitcoin.jpg)
 # Sentiment Analysis of Crypto Currencies: Ethereum
 ### Author: Eric Romano
 ## Overview
