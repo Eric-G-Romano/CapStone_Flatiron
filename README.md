@@ -33,7 +33,7 @@ The analysis performed in my Jupyter Notebook follows a CRISP-DM method approach
 
 ![](Images/Price_RSI.png)
 
-![](Images/fig.png)
+![](Images/Sentiment_Analysis_Compound_vs_Date.png)
 
 ![](Images/fig5.png)
 
