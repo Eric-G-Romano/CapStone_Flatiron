@@ -1,3 +1,4 @@
+![](Images/ethereum-and-bitcoin.jpg)
 # Sentiment Analysis of Crypto Currencies: Ethereum
 ### Author: Eric Romano
 ## Overview
@@ -29,6 +30,14 @@ This dataset contains 285 rows x 41 columns.
 The analysis performed in my Jupyter Notebook follows a CRISP-DM method approach. Imported data form a reputable source, cleaned, processed, and feature engineered. Using Natural Language Processing techniques and modeling techniques to create a classifier that makes predictions about if the Ethereum market will close higher or lower than the previous day. Using descriptive statistics to determine promising insights and trends within the Ethereum market. Utilizing Random Forest and Linear Discriminant Analysis models to assess the most important features that improve the models. To ensure that the model produces the most promising results recall should be optimized to limit false negatives. 
 
 ## Results 
+
+![](Images/Price_RSI.png)
+
+![](Images/fig.png)
+
+![](Images/fig5.png)
+
+![](Images/fig6.png)
 
 ## Evaluations
 
