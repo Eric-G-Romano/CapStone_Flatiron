@@ -44,10 +44,12 @@ The analysis performed in my Jupyter Notebook follows a CRISP-DM method approach
 ![](Images/classification_report_RF_SA.PNG)
 
 ![](Images/confusion_matrix_LDA_all.png)
-![](Images/classification_report_LDA_all.PNG)
+
+![](Images/classification_report_LDA_All.PNG)
 
 ![](Images/confusion_matrix_RF_all.png)
-![](Images/classification_report_RF_all.PNG)
+
+![](Images/classification_report_RF_All.PNG)
 
 ## Conclusion
 
