@@ -33,7 +33,7 @@ The analysis performed in my Jupyter Notebook follows a CRISP-DM method approach
 
 ![](Images/Price_RSI.png)
 
-One of the indicators used to create engineered featured is the Relative Strength Index which is a metric that can be used to understand if the current market is being overbought or oversold. From the chart above you can see when Ethereum crossed the overbought bar and touched the 90% level right before a large sell off occurred. 
+One of the indicators used to create engineered features was the Relative Strength Index which is a metric that can be used to understand if the current market is being overbought or oversold. From the chart above you can see when Ethereum crossed the overbought bar and touched the 90% level right before a large sell off occurred. 
 
 ![](Images/Sentiment_Analysis_Compound_vs_Date.png)
 
@@ -50,6 +50,7 @@ Surprisingly, when including the previous day values of the historical data set 
 ## Evaluations
 ![](Images/classification_report_LDA_SA.PNG)
 ![](Images/classification_report_RF_SA.PNG)
+The 
 
 ![](Images/confusion_matrix_LDA_all.png)
 
