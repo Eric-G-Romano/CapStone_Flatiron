@@ -59,6 +59,10 @@ For the first base line LDA model we see that recall is about 90 percent when cl
 
 As for the RF model the models classification of lower days increased by about 20 percent but saw a decrease in classification of higher days.
 
+I decided to feature engineer more variables out of historical data. The first is utilizing the Relative Strength Index to create features that help indicate when something is being over bought or oversold. The next features that were created were extracted from historical data. We will be prioritizing recall to limit the number of false negatives. 
+
+False negative will classify a day will close lower than the day before however the actual result is the day closing higher. In some cases, this might give investors the wrong insight when creating investment strategies or exist strategies. Due to this I believe another metric to gauge the performance of these model is accuracy. 
+
 ![](Images/confusion_matrix_LDA_all.png)
 
 ![](Images/classification_report_LDA_All.PNG)
@@ -66,6 +70,8 @@ As for the RF model the models classification of lower days increased by about 2
 ![](Images/confusion_matrix_RF_all.png)
 
 ![](Images/classification_report_RF_All.PNG)
+
+When including the features from the previous values of the historical data the model either became overfitted or the model has the right features to make great predictions. 
 
 ## Conclusion
 
