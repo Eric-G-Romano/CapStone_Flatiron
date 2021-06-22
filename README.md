@@ -40,6 +40,8 @@ The analysis performed in my Jupyter Notebook follows a CRISP-DM method approach
 ![](Images/fig6.png)
 
 ## Evaluations
+![](Images/classification_report_LDA_SA.PNG)
+![](Images/classification_report_RF_SA.PNG)
 
 ![](Images/confusion_matrix_LDA_all.png)
 
