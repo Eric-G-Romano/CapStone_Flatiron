@@ -41,7 +41,11 @@ In this sentiment analysis of just news headlines there was an overall positive 
 
 ![](Images/fig5.png)
 
+In the model that included features engineered from the sentiment analysis and the relative strength index the most important features were the new center id, bought_sold and low_class. 
+
 ![](Images/fig6.png)
+
+Surprisingly, when including the previous day values of the historical data set it provide a strong importance to our final models. The strongest being the volume value of the previous day. 
 
 ## Evaluations
 ![](Images/classification_report_LDA_SA.PNG)
@@ -58,6 +62,10 @@ In this sentiment analysis of just news headlines there was an overall positive 
 ## Conclusion
 
 ### Recommendations 
+
+1.	Look into the new centers that provide the strongest correlations to the market. Keeping them in your daily reading list will be your best use of time in trying to get information on Ethereum. 
+2.	Utilizing the RSI is useful specifically the bought and sold feature as it provides you better prediction power to determining if the market will close higher or lower than the previous day. 
+3.  
 
 ### Future Work 
 
