@@ -48,9 +48,16 @@ In the model that included features engineered from the sentiment analysis and t
 Surprisingly, when including the previous day values of the historical data set it provide a strong importance to our final models. The strongest being the volume value of the previous day. 
 
 ## Evaluations
+
+In this analysis the goal was to correctly classify if the market will close higher or lower than the day before. The first model consisted with engineered features made from a sentiment analysis of new headlines. The modeling techniques used in this analysis were both LDA and a Random Forest. 
+
 ![](Images/classification_report_LDA_SA.PNG)
+
+For the first base line LDA model we see that recall is about 90 percent when classifying when the day will close higher than the day before. As for classifying when the day will close lower than the day before was as low as 31 percent.
+
 ![](Images/classification_report_RF_SA.PNG)
-The 
+
+As for the RF model the models classification of lower days increased by about 20 percent but saw a decrease in classification of higher days.
 
 ![](Images/confusion_matrix_LDA_all.png)
 
