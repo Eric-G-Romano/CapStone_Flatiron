@@ -75,6 +75,8 @@ When including the features from the previous values of the historical data the 
 
 ## Conclusion
 
+In conclusion, the combination of engineered features from the historical data set and the features from a sentiment analysis provide a great foundation to models to predict whether the Ethereum market will close higher or lower than the previous day.  Looking into just the months leading up to these all-time highs and before the crash our models provide actionable recommendation to help investors possibly make more informed investments.
+
 ### Recommendations 
 
 1.	Look into the new centers that provide the strongest correlations to the market. Keeping them in your daily reading list will be your best use of time in trying to get information on Ethereum. 
@@ -82,6 +84,8 @@ When including the features from the previous values of the historical data the 
 3.  
 
 ### Future Work 
+
+The model is a great baseline that will be used to explore the top altcoins as well as bitcoin. Also, I will explore if the important feature remains important across all the other cryptocurrency.  I would also like to extend the time to a whole year to gather more data to add into the model. By adding more data points, we will be able to see if the model remains a great model or if there is a significant decrease in the metrics that were used to evaluate the performance of the model. 
 
 ## For More Information
 
