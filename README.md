@@ -1,5 +1,5 @@
 ![](Images/ethereum-and-bitcoin.jpg)
-# Sentiment Analysis of Crypto Currencies: Ethereum
+# Sentiment Analysis of Crypto Currencies: Ethereum Close Prediction Model
 ### Author: Eric Romano
 ## Overview
 
