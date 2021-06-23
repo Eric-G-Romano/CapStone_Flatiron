@@ -90,7 +90,7 @@ The model is a great baseline that will be used to explore the top altcoins as w
 
 ## For More Information
 
-Please review my full analysis in my [Jupyter Notebook](https://github.com/Eric-G-Romano/CapStone_Flatiron/blob/main/Ethereum_close_prediction_model.ipynb) or my [presentation]().
+Please review my full analysis in my [Jupyter Notebook](https://github.com/Eric-G-Romano/CapStone_Flatiron/blob/main/Ethereum_close_prediction_model.ipynb) or my [presentation](https://github.com/Eric-G-Romano/CapStone_Flatiron/blob/main/ethereum_close_prediciton_model_ppt.pdf).
 For any questions, please contact Eric Romano at egustavo94@gmail.com 
 
 For any additional questions, please contact **Eric Romano** at [egustavo94@gmail.com](egustavo94@gmail.com).
@@ -103,13 +103,17 @@ For any additional questions, please contact **Eric Romano** at [egustavo94@gmai
 ├── Images                                  < Folder containing image files used for this project
 ├── Tweet_Ethereum                          < Folder containing CSV file for future work
 ├── Ethereum_close_prediction_model.ipynb   < Narrative documentation of analysis in Jupyter notebook
+├── Ethereum_close_prediction_model.pdf   < Narrative documentation of analysis in Jupyter notebook PDF
 ├── Historical_Data.ipynb               < Narrative documentation of webscrapping in Jupyter notebook
+├── Historical_Data.pdf               < Narrative documentation of webscrapping in Jupyter notebook PDF
 ├── README.md                               < The top-level README for reviewers of this project
 ├── RSI_Over_sold.ipynb                     < PDF version of Jupyter notebook
 ├── Web_Scrapping_headlines.ipynb       < Narrative documentation of webscrapping in Jupyter notebook
+├── Web_Scrapping_headlines.pdf       < Narrative documentation of webscrapping in Jupyter notebook PDF
 ├── Web_Scrapping_Tweets.ipynb          < Narrative documentation of webscrapping in Jupyter notebook
 ├── df_ethereum_headlines.csv               < CSV file used for this project
 ├── df_historical_data.csv                  < CSV file used for this project
+├── Ethereum_close_prediction_model_ppt.pdf   < Powerpoint presentation PDF
 ├── historical_data.csv                     < CSV file used for this project
 
 ```
