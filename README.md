@@ -90,7 +90,7 @@ The model is a great baseline that will be used to explore the top altcoins as w
 
 ## For More Information
 
-Please review my full analysis in my [Jupyter Notebook]() or my [presentation]().
+Please review my full analysis in my [Jupyter Notebook](https://github.com/Eric-G-Romano/CapStone_Flatiron/blob/main/Ethereum_close_prediction_model.ipynb) or my [presentation]().
 For any questions, please contact Eric Romano at egustavo94@gmail.com 
 
 For any additional questions, please contact **Eric Romano** at [egustavo94@gmail.com](egustavo94@gmail.com).
