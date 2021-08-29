@@ -95,6 +95,8 @@ For any questions, please contact Eric Romano at egustavo94@gmail.com
 
 For any additional questions, please contact **Eric Romano** at [egustavo94@gmail.com](egustavo94@gmail.com).
 
+![](Images/Dashboard_1.png)
+
 ## Repository Structure
 
 ```bash
